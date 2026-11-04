@@ -2,7 +2,12 @@
 # AUTHOR: T1Zger
 # REPO: https://github.com/T1Zger/loon-rules
 # UPDATED: 2026-11-04
-# TOTAL: 1
+# TOTAL: 4
 
 # 自定义代理
 DOMAIN-SUFFIX,thetvdb.com
+
+# SOOP
+DOMAIN-SUFFIX,sooplive.co.kr
+DOMAIN-SUFFIX,sooplive.com
+DOMAIN-SUFFIX,afreecatv.com
