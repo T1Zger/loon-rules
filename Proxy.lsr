@@ -2,6 +2,7 @@
 # AUTHOR: T1Zger
 # REPO: https://github.com/T1Zger/loon-rules
 # UPDATED: 2026-11-04
-# TOTAL: 0
+# TOTAL: 1
 
-# 自定义代理（待补充域名）
+# 自定义代理
+DOMAIN-SUFFIX,thetvdb.com
