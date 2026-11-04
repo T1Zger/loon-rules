@@ -2,7 +2,7 @@
 # AUTHOR: T1Zger
 # REPO: https://github.com/T1Zger/loon-rules
 # UPDATED: 2026-11-04
-# TOTAL: 6
+# TOTAL: 7
 
 # 自定义直连
 DOMAIN-SUFFIX,k8v4dh4.app
@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,zzzb93vip.app
 DOMAIN-SUFFIX,zzzb138vip.app
 DOMAIN-SUFFIX,9939.com
 DOMAIN-SUFFIX,9939zb4.app
+DOMAIN-SUFFIX,kacd.de
