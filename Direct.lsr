@@ -1,8 +1,8 @@
 # NAME: Direct
 # AUTHOR: T1Zger
 # REPO: https://github.com/T1Zger/loon-rules
-# UPDATED: 2026-11-04
-# TOTAL: 7
+# UPDATED: 2026-11-05
+# TOTAL: 13
 
 # 自定义直连
 DOMAIN-SUFFIX,k8v4dh4.app
@@ -12,3 +12,11 @@ DOMAIN-SUFFIX,zzzb138vip.app
 DOMAIN-SUFFIX,9939.com
 DOMAIN-SUFFIX,9939zb4.app
 DOMAIN-SUFFIX,kacd.de
+
+# 红果短剧/番茄
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,hongguoduanju.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,bytecdn.cn
