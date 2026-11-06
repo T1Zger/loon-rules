@@ -1,8 +1,8 @@
 # NAME: Proxy
 # AUTHOR: T1Zger
 # REPO: https://github.com/T1Zger/loon-rules
-# UPDATED: 2026-11-04
-# TOTAL: 4
+# UPDATED: 2026-11-06
+# TOTAL: 5
 
 # 自定义代理
 DOMAIN-SUFFIX,thetvdb.com
@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,sooplive.co.kr
 DOMAIN-SUFFIX,sooplive.com
 DOMAIN-SUFFIX,afreecatv.com
+
+# 海角
+DOMAIN-SUFFIX,haijiaolove.xyz
