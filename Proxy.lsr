@@ -1,8 +1,8 @@
 # NAME: Proxy
 # AUTHOR: T1Zger
 # REPO: https://github.com/T1Zger/loon-rules
-# UPDATED: 2026-11-07
-# TOTAL: 6
+# UPDATED: 2026-11-09
+# TOTAL: 14
 
 # 自定义代理
 DOMAIN-SUFFIX,thetvdb.com
@@ -17,3 +17,13 @@ DOMAIN-SUFFIX,haijiaolove.xyz
 
 # Stripchat
 DOMAIN-SUFFIX,stripchat.com
+
+# Apple智能
+DOMAIN-KEYWORD,apple-relay
+IP-CIDR,17.248.152.0/24
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,guzzling.apple.com
